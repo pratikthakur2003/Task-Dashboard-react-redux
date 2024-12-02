@@ -25,15 +25,18 @@ A modern task management application built with React, Redux, and Material-UI. F
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies:
+   ```bash
+   git clone https://github.com/pratikthakur2003/Task-Dashboard-react-redux.git
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser
+5. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser
 
 ## Available Scripts
 
